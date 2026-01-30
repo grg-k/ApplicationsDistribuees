@@ -1,2 +1,2 @@
 # ApplicationsDistribuees
-Repository for the Distributed Applications course.
+Repository for the Distributed Systems course.
